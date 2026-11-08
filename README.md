@@ -18,7 +18,7 @@ Hecho con cariño en Cuba, para que cada bici vuelva a rodar.
 
 ## 📸 Capturas
 
-> 📷 Las capturas están pendientes: se añadirán en `docs/screenshots/`.
+> 📷 Faltan las capturas del minijuego y del cliente; se añadirán en `docs/screenshots/`.
 
 | Menú | Taller |
 | --- | --- |
@@ -27,6 +27,10 @@ Hecho con cariño en Cuba, para que cada bici vuelva a rodar.
 | Minijuego | Cliente |
 | --- | --- |
 | ![Minijuego de reparación en marcha](docs/screenshots/minijuego.png) | ![Cliente con su bici](docs/screenshots/cliente.png) |
+
+### Cómo jugar
+
+![Pantalla «Cómo jugar»](docs/screenshots/como-jugar.png)
 
 ## ✨ Características
 
