@@ -1,0 +1,35 @@
+# ============================================================
+# BiciTaller — Godot 4.3
+# Archivos generados y locales que NO se suben al repo.
+# Los archivos .import SÍ se suben (los necesita el proyecto).
+# ============================================================
+
+# Caché y datos de importación del editor de Godot
+.godot/
+
+# Exportaciones y builds locales
+build/
+*.apk
+*.aab
+*.pck
+
+# Archivos temporales
+*.tmp
+*.bak
+*.orig
+*~
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python (herramienta tools/gen_audio.py)
+__pycache__/
+*.pyc
