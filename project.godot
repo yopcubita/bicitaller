@@ -1,0 +1,47 @@
+; Archivo de configuración del proyecto Godot 4.3
+; BiciTaller v0.6.1 — arcade de mecánico de bicicletas, offline, horizontal.
+config_version=5
+
+[application]
+
+config/name="BiciTaller"
+config/description="Taller de bicis en Cuba. Repara bicis a contrarreloj, con clientes impacientes. Hecho por yopcubita"
+run/main_scene="res://scenes/Main.tscn"
+config/features=PackedStringArray("4.3", "GL Compatibility")
+config/icon="res://icon.svg"
+run/max_fps=30
+config/quit_on_go_back=false
+
+[autoload]
+
+Save="*res://scripts/save.gd"
+Sfx="*res://scripts/sfx.gd"
+
+[display]
+
+window/size/viewport_width=1280
+window/size/viewport_height=720
+window/stretch/mode="canvas_items"
+window/stretch/aspect="expand"
+window/handheld/orientation=4
+window/energy_saving/keep_screen_on=true
+window/vsync/vsync_mode=1
+
+[gui]
+
+theme/custom_font="res://assets/fonts/LilitaOne-Regular.ttf"
+
+[input_devices]
+
+pointing/emulate_touch_from_mouse=true
+
+[physics]
+
+common/physics_ticks_per_second=30
+
+[rendering]
+
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"
+textures/vram_compression/import_etc2_astc=true
+environment/defaults/default_clear_color=Color(0.98, 0.93, 0.83, 1)
