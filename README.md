@@ -18,8 +18,6 @@ Hecho con cariño en Cuba, para que cada bici vuelva a rodar.
 
 ## 📸 Capturas
 
-> 📷 Faltan las capturas del minijuego y del cliente; se añadirán en `docs/screenshots/`.
-
 | Menú | Taller |
 | --- | --- |
 | ![Menú principal de BiciTaller](docs/screenshots/menu.png) | ![El taller durante una jornada](docs/screenshots/taller.png) |
